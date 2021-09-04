@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <color name="shareButtonColor">#777CFA</color>
+    <color name="shareButtonColor">#F5A623</color>
     <color name="nextButtonColor">#BF80F1</color>
 </resources>
